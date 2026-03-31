@@ -1,0 +1,14 @@
+# Archivos temporales STM32
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+
+# Configuración IDE
+.metadata/
+.settings/
+
+# Otros
+*.log
